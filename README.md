@@ -1,25 +1,14 @@
-# iseseisev-projekt
-Eesrakenduste arendamise iseseisva projekti lähteülesanne. 
+﻿PUZZLE GAME
+Daria Kreydina
+http://www.tlu.ee/~daria/puz/#
+http://greeny.cs.tlu.ee/~darikre/front/projekt/puzzle-game1.3/#
 
-Töö võib teha teha 1-4 liikmelise meeskonnana. Punkte jaotatakse vastavalt sellele, mitu liiget on meeskonnas:
-* 1 liige - max 60 punkti/inimene.
-* 2 liiget - max 40 punkti/inimene.
-* 3 liiget - max 30 punkti/inimene.
-* 4 liiget - max 20 punkti/inimene.
+rakendus on meelelahutusliku eesmärgiga;
+rakenduse idee on kooskõlastatud õppejõuga;
+töötab võrguta olekus;
+responsive disain;
+saab kasutada "add to Home screen" funktsionaalsust.
 
-**NB! Kui meeskonnas on rohkem kui üks liige, siis peab githubis selgelt välja tulema, kes millist osa tegi, et oleks võimalik hinnata iga meeskonnaliikme individuaalset panust.**
-
-README.md fail sisaldab:
-1. suurelt rakenduse nime;
-1. autorite nimesid;
-1. rakenduse funktsionaalsuse kirjeldust;
-1. ekraanitõmmist rakendusest.
-
-Rakenduse puhul peavad olema täidetud vähemalt järgmised nõuded:
-  * rakendus lahendab tõsist probleemi või on meelelahutusliku eesmärgiga; 
-  * rakenduse idee peab olema kooskõlastatud õppejõuga;
-  * töötab võrguta olekus;
-  * responsive disain;
-  * saab kasutada "add to Home screen" funktsionaalsust.
-
-Rakenduses võib kasutada teiste autorite koodi, kuid enda panus peab olema natuke enamat kui võrguta olekus töötamine. 
+ekraanitõmmis rakendusest:
+http://greeny.cs.tlu.ee/~darikre/front/projekt/puzzle-game1.3/Capture.PNG
+http://greeny.cs.tlu.ee/~darikre/front/projekt/puzzle-game1.3/Capture2.PNG

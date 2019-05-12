@@ -1,0 +1,15 @@
+{
+  "short_name": "puzzle",
+  "name": "puzzle",
+  "icons": [
+    {
+      "src":"puzzle-piece.png",
+      "sizes": "25x23",
+      "type": "png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fff",
+  "Theme_color": "#000",
+  "display": "standalone"
+}
